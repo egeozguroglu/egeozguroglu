@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Ege!
 
-I'm an undergraduate researcher and teaching assistant at Columbia Engineering. My research interests lie at the intersection of computer vision and machine learning, as well as their interactions with human perception.
+I'm an undergraduate researcher and teaching assistant at Columbia Engineering. My research interests lie at the intersection of computer vision & machine learning, as well as their interactions with human perception.
 
 - 🔭 I’m currently working with Visual Language Models (e.g. CLIP) to create a task-agnostic mapping between vision and natural language. 
 - 📫 How to reach me: ege.ozguroglu@columbia.edu
