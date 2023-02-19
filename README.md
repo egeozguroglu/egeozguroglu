@@ -5,6 +5,7 @@ I'm an undergraduate researcher and teaching assistant at Columbia Engineering. 
 - 🔭 I’m currently working with Visual Language Models (e.g. CLIP) to create a task-agnostic mapping between vision and natural language. 
 - 📫 How to reach me: ege.ozguroglu@columbia.edu
 - 🌊 Fun fact: _Ege_ is the Turkish name of the _Aegean Sea_, an arm of the Mediterrenean between Turkey and Greece.
+- 📷 Photography: https://www.instagram.com/egeozguroglu/
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egeozguroglu&" alt="egeozguroglu" /></p>
 
