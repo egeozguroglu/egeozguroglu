@@ -3,9 +3,10 @@
 I'm an undergraduate researcher and teaching assistant at Columbia Engineering. 
 
 - 🔭 My research interests lie at the intersection of computer vision & machine learning, as well as their interactions with human perception.
-- 📫 How to reach me: ege.ozguroglu@columbia.edu
 - 🌊 Fun fact: _Ege_ is the Turkish name of the _Aegean Sea_, an arm of the Mediterrenean between Turkey and Greece.
 - 📷 Photography: https://www.instagram.com/egeozguroglu/
+- 📫 How to reach me: ege.ozguroglu@columbia.edu
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egeozguroglu&" alt="egeozguroglu" /></p>
 
