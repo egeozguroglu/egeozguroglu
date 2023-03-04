@@ -7,10 +7,10 @@ I'm an undergraduate researcher and teaching assistant at Columbia Engineering.
 - 📷 Photography: https://www.instagram.com/egeozguroglu/
 - 📫 How to reach me: ege.ozguroglu@columbia.edu
 
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egeozguroglu&" alt="egeozguroglu" /></p>
 
-<!--
+
 **egeozguroglu/egeozguroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
