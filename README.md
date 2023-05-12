@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Ege!
 
-I'm a Teaching Assistant and researcher, co-advised by Prof. Shuran Song and Carl Vondrick, at Columbia Engineering. 
+I'm a Teaching Assistant and undergraduate researcher, advised by Professors Shuran Song and Carl Vondrick, at Columbia Engineering. 
 
 - 🔭 My research interests lie at the intersection of computer vision & machine learning, as well as their interactions with human perception.
 - 🌊 Fun fact: _Ege_ is the Turkish name of the _Aegean Sea_, an arm of the Mediterrenean between Turkey and Greece.
