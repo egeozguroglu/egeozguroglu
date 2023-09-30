@@ -1,26 +1,8 @@
-### Hi 👋, I'm Ege!
+### Hi 👋
 
-I'm a Teaching Assistant and undergraduate researcher, advised by Professors Shuran Song and Carl Vondrick, at Columbia Engineering. 
+I'm a Research Associate (Staff Associate I), advised by Professor Carl Vondrick at Columbia University, as part of CV Lab. Previously, I graduated from Columbia Engineering with a B.S. in Computer Science.
 
-- 🔭 My research interests lie at the intersection of computer vision & machine learning, as well as their interactions with human perception.
-- 🌊 Fun fact: _Ege_ is the Turkish name of the _Aegean Sea_, an arm of the Mediterrenean between Turkey and Greece.
+- 🔭 My research interests lie at the intersection of computer vision, machine learning, and human perception.
+- 🌊 _Ege_ is the Turkish name of the _Aegean Sea_, an arm of the Mediterrenean between Turkey and Greece.
 - 📷 Photography: https://www.instagram.com/egeozguroglu/
-- 📫 How to reach me: ege.ozguroglu@columbia.edu
-
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egeozguroglu&" alt="egeozguroglu" /></p>
-
-
-**egeozguroglu/egeozguroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 ege.ozguroglu@columbia.edu
